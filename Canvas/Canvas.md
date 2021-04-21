@@ -31,7 +31,7 @@ A partir de nossa base de dados, bem como das ferramentas utilizadas, temos por 
 1.  Analisar, limpar, separar e normalizar os dados.
 2.  Testar distintos algorítimos, com hiperparâmetros diversos, utilizando dados de treinamento e validação. A partir disso vamos escolher os hiperparâmetros que apresentarem melhores melhores resultados segundo certas métricas (mas priorizando a "pontuação F1" por melhor representar o desbalanceamento dos dados).
 3.  Testar todos os algorítimos com base nos dados de teste e escolher aquele que apresentar melhor performance.
-4   Entrega dos resultados.
+4.   Entrega dos resultados.
  
  
 ## Principais Riscos
