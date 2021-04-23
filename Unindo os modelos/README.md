@@ -1,4 +1,3 @@
 **NOTEBOOK: UNIFICAÇÃO DOS MODELOS**
 
-Aqui está o notebook onde os modelos são avaliados em conjunto com os dados de treino e teste.
-Além disso, realiza-se validação cruzada para avaliar a incerteza de cada modelo usando dados de treinamento e de validação.
+Nesse notebook ocorre a análise conjunta dos modelos, com os melhores hiperparâmetros. Nele se avalia a performance dos modelos e a incerteza associada, conforme as métricas. Também se observa a proporção de valores de cada classe capturados pelo modelo quando se modifica o valor da limiar de previsão ("threshold").
